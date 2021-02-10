@@ -8,7 +8,7 @@ My name is Apoorva Reddy, I am doing my bachelor's degree in Computer Science
 - 🤔 I’m looking for help with Deep Learning 
 - 💬 Ask me about Machine Learning and Python
 - 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/apoorva-reddy-bagepalli-4522851a3/)
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
