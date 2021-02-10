@@ -10,7 +10,4 @@ My name is Apoorva Reddy, I am doing my bachelor's degree in Computer Science
 - 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/apoorva-reddy-bagepalli-4522851a3/)
 
-
-
-[![Apoorva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorvareddy612)](https://github.com/apoorvareddy612/github-readme-stats)
-
+![Apoorva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorvareddy612&show_icons=true&theme=radical)
