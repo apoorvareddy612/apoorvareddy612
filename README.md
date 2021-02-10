@@ -1,4 +1,4 @@
-### Hi there 👋🏽
+### Hi there 👽
 My name is Apoorva Reddy, I am doing my bachelor's degree in Computer Science
 
 
