@@ -14,3 +14,4 @@ My name is Apoorva Reddy, I am doing my bachelor's degree in Computer Science
 
 
 ![Apoorva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorvareddy612&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com?user=apoorvareddy612&theme=dark&hide_border=true)
