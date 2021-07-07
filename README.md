@@ -1,5 +1,6 @@
 ### Hi there 👽
 My name is Apoorva Reddy, I am doing my bachelor's degree in Computer Science
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorvareddy612" alt="Apoorva Reddy" /></p>
 
 
 - 🔭 I’m currently working on Machine Learning,Python,Data Visualization,Data Analysis
