@@ -8,7 +8,9 @@ My name is Apoorva Reddy, I am doing my bachelor's degree in Computer Science
 - 🤔 I’m looking for help with Deep Learning 
 - 💬 Ask me about Machine Learning and Python
 - 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/apoorva-reddy-bagepalli-4522851a3/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorva-reddy-bagepalli-4522851a3/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apo_612/)
+[![Kaggle](	https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/apu612)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvareddy612&layout=compact)](https://github.com/apoorvareddy612/github-readme-stats)
 
